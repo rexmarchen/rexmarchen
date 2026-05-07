@@ -8,17 +8,10 @@ I build things that think. Currently developing **REXION** — an AI-powered web
 ### 🚀 What I'm building
 **REXION** — an AI-powered full-stack web application combining intelligent decision systems with a modern MERN architecture.
 
-### 👥 Open to collaborate
-AI/ML projects with real-world impact. MERN stack applications. If you're building something ambitious, let's talk.
-
 ### 📚 Currently learning
 Scalable AI system design, advanced ML pipelines, DSA, and production-grade data engineering.
 
-### 💡 What drives me
-Logic meets creativity. I'm not satisfied until the solution is both elegant and actually works in production.
-
 ---
-
 ### 🛠 Tech Stack
 
 **Frontend** — React · TailwindCSS · HTML5 · CSS3 · JavaScript  
